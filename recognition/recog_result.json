@@ -1,0 +1,500 @@
+{
+	"represent": {
+		"dad": {
+			"path": "/home/jupyter/data/family-reference/represent.jpg",
+			"face_bbox": [
+				923.578125,
+				555.244873046875,
+				1100.830078125,
+				800.0244750976562
+			],
+			"class": "dad"
+		},
+		"mom": {
+			"path": "/home/jupyter/data/family-reference/represent.jpg",
+			"face_bbox": [
+				1552.7559814453125,
+				603.423583984375,
+				1722.1036376953125,
+				833.0408935546875
+			],
+			"class": "mom"
+		},
+		"brother": {
+			"path": "/home/jupyter/data/family-reference/represent.jpg",
+			"face_bbox": [
+				1126.5103759765625,
+				778.31005859375,
+				1277.7479248046875,
+				979.7479248046875
+			],
+			"class": "brother"
+		},
+		"me": {
+			"path": "/home/jupyter/data/family-reference/represent.jpg",
+			"face_bbox": [
+				1418.496826171875,
+				644.0679321289062,
+				1565.0802001953125,
+				829.9202880859375
+			],
+			"class": "me"
+		}
+	},
+	"3-7-0026": {
+		"dad": {
+			"path": "/home/jupyter/data/family-reference/3-7-0026.jpg",
+			"face_bbox": [
+				750.6968994140625,
+				1086.5570068359375,
+				855.7340087890625,
+				1222.8837890625
+			],
+			"class": "dad"
+		},
+		"mom": {
+			"path": "/home/jupyter/data/family-reference/3-7-0026.jpg",
+			"face_bbox": [
+				997.0505981445312,
+				1171.015380859375,
+				1095.7254638671875,
+				1300.300537109375
+			],
+			"class": "mom"
+		},
+		"unknown_1": {
+			"path": "/home/jupyter/data/family-reference/3-7-0026.jpg",
+			"face_bbox": [
+				1220.315673828125,
+				1419.8726806640625,
+				1315.60595703125,
+				1535.24755859375
+			],
+			"class": "unknown_1"
+		},
+		"unknown_2": {
+			"path": "/home/jupyter/data/family-reference/3-7-0026.jpg",
+			"face_bbox": [
+				890.0272827148438,
+				1409.032470703125,
+				979.5162963867188,
+				1524.845703125
+			],
+			"class": "unknown_2"
+		},
+		"unknown_3": {
+			"path": "/home/jupyter/data/family-reference/3-7-0026.jpg",
+			"face_bbox": [
+				820.7487182617188,
+				2239.484130859375,
+				884.7776489257812,
+				2321.44189453125
+			],
+			"class": "unknown_3"
+		}
+	},
+	"3-1-0130": {
+		"unknown_4": {
+			"path": "/home/jupyter/data/family-reference/3-1-0130.jpg",
+			"face_bbox": [
+				1044.06103515625,
+				1702.6171875,
+				1189.1531982421875,
+				1900.334716796875
+			],
+			"class": "unknown_4"
+		},
+		"dad": {
+			"path": "/home/jupyter/data/family-reference/3-1-0130.jpg",
+			"face_bbox": [
+				838.363525390625,
+				684.222900390625,
+				969.814453125,
+				853.4205322265625
+			],
+			"class": "dad"
+		}
+	},
+	"3-10-0035": {
+		"unknown_5": {
+			"path": "/home/jupyter/data/family-reference/3-10-0035.jpg",
+			"face_bbox": [
+				1085.366943359375,
+				838.2135009765625,
+				1280.8717041015625,
+				1094.8958740234375
+			],
+			"class": "unknown_5"
+		},
+		"dad": {
+			"path": "/home/jupyter/data/family-reference/3-10-0035.jpg",
+			"face_bbox": [
+				1821.27490234375,
+				901.57763671875,
+				2018.8895263671875,
+				1140.3609619140625
+			],
+			"class": "dad"
+		},
+		"brother": {
+			"path": "/home/jupyter/data/family-reference/3-10-0035.jpg",
+			"face_bbox": [
+				736.6815185546875,
+				1426.5875244140625,
+				924.3860473632812,
+				1667.832763671875
+			],
+			"class": "brother"
+		},
+		"me": {
+			"path": "/home/jupyter/data/family-reference/3-10-0035.jpg",
+			"face_bbox": [
+				757.0261840820312,
+				638.47314453125,
+				924.7952270507812,
+				855.588134765625
+			],
+			"class": "me"
+		},
+		"unknown_6": {
+			"path": "/home/jupyter/data/family-reference/3-10-0035.jpg",
+			"face_bbox": [
+				943.2601928710938,
+				250.62525939941406,
+				1037.102294921875,
+				363.664306640625
+			],
+			"class": "unknown_6"
+		}
+	},
+	"3-9-0002": {
+		"dad": {
+			"path": "/home/jupyter/data/family-reference/3-9-0002.jpg",
+			"face_bbox": [
+				1364.2161865234375,
+				668.7463989257812,
+				1513.56640625,
+				871.5858764648438
+			],
+			"class": "dad"
+		},
+		"mom": {
+			"path": "/home/jupyter/data/family-reference/3-9-0002.jpg",
+			"face_bbox": [
+				1642.220947265625,
+				743.35400390625,
+				1790.1080322265625,
+				925.3125610351562
+			],
+			"class": "mom"
+		}
+	},
+	"3-11-0209": {
+		"unknown_7": {
+			"path": "/home/jupyter/data/family-reference/3-11-0209.jpg",
+			"face_bbox": [
+				1851.6171875,
+				907.0935668945312,
+				1990.68896484375,
+				1085.6925048828125
+			],
+			"class": "unknown_7"
+		},
+		"unknown_8": {
+			"path": "/home/jupyter/data/family-reference/3-11-0209.jpg",
+			"face_bbox": [
+				1643.364990234375,
+				1080.7684326171875,
+				1774.86279296875,
+				1259.4525146484375
+			],
+			"class": "unknown_8"
+		},
+		"mom": {
+			"path": "/home/jupyter/data/family-reference/3-11-0209.jpg",
+			"face_bbox": [
+				1427.1416015625,
+				1185.8568115234375,
+				1565.9755859375,
+				1340.1806640625
+			],
+			"class": "mom"
+		},
+		"unknown_9": {
+			"path": "/home/jupyter/data/family-reference/3-11-0209.jpg",
+			"face_bbox": [
+				2106.46533203125,
+				1065.3841552734375,
+				2238.296142578125,
+				1222.0723876953125
+			],
+			"class": "unknown_9"
+		},
+		"unknown_10": {
+			"path": "/home/jupyter/data/family-reference/3-11-0209.jpg",
+			"face_bbox": [
+				2579.476318359375,
+				1325.0074462890625,
+				2644.3388671875,
+				1406.5809326171875
+			],
+			"class": "unknown_10"
+		}
+	},
+	"3-6-0111": {
+		"dad": {
+			"path": "/home/jupyter/data/family-reference/3-6-0111.jpg",
+			"face_bbox": [
+				1258.8695068359375,
+				476.81658935546875,
+				1390.487060546875,
+				657.6588745117188
+			],
+			"class": "dad"
+		},
+		"unknown_11": {
+			"path": "/home/jupyter/data/family-reference/3-6-0111.jpg",
+			"face_bbox": [
+				1552.293701171875,
+				562.3329467773438,
+				1673.1568603515625,
+				718.239501953125
+			],
+			"class": "unknown_11"
+		},
+		"unknown_12": {
+			"path": "/home/jupyter/data/family-reference/3-6-0111.jpg",
+			"face_bbox": [
+				1290.76904296875,
+				917.2113037109375,
+				1398.2210693359375,
+				1051.5682373046875
+			],
+			"class": "unknown_12"
+		},
+		"unknown_13": {
+			"path": "/home/jupyter/data/family-reference/3-6-0111.jpg",
+			"face_bbox": [
+				1617.8028564453125,
+				878.510498046875,
+				1712.229248046875,
+				994.976806640625
+			],
+			"class": "unknown_13"
+		}
+	},
+	"3-8-0097": {
+		"unknown_14": {
+			"path": "/home/jupyter/data/family-reference/3-8-0097.jpg",
+			"face_bbox": [
+				1377.190185546875,
+				1310.217041015625,
+				1588.046630859375,
+				1555.4388427734375
+			],
+			"class": "unknown_14"
+		},
+		"unknown_8": {
+			"path": "/home/jupyter/data/family-reference/3-8-0097.jpg",
+			"face_bbox": [
+				1063.0748291015625,
+				1449.162109375,
+				1258.4820556640625,
+				1705.4517822265625
+			],
+			"class": "unknown_8"
+		},
+		"mom": {
+			"path": "/home/jupyter/data/family-reference/3-8-0097.jpg",
+			"face_bbox": [
+				1368.46728515625,
+				807.6422729492188,
+				1446.6751708984375,
+				901.0768432617188
+			],
+			"class": "mom"
+		}
+	},
+	"3-12-0160": {
+		"mom": {
+			"path": "/home/jupyter/data/family-reference/3-12-0160.jpg",
+			"face_bbox": [
+				1113.50244140625,
+				1456.8353271484375,
+				1254.2890625,
+				1652.92236328125
+			],
+			"class": "mom"
+		},
+		"dad": {
+			"path": "/home/jupyter/data/family-reference/3-12-0160.jpg",
+			"face_bbox": [
+				1419.231689453125,
+				1404.7757568359375,
+				1561.335205078125,
+				1593.8126220703125
+			],
+			"class": "dad"
+		},
+		"unknown_12": {
+			"path": "/home/jupyter/data/family-reference/3-12-0160.jpg",
+			"face_bbox": [
+				699.752685546875,
+				1583.13818359375,
+				845.3317260742188,
+				1761.19189453125
+			],
+			"class": "unknown_12"
+		},
+		"unknown_15": {
+			"path": "/home/jupyter/data/family-reference/3-12-0160.jpg",
+			"face_bbox": [
+				973.9569091796875,
+				1578.3953857421875,
+				1105.2081298828125,
+				1739.240234375
+			],
+			"class": "unknown_15"
+		}
+	},
+	"3-4-0192": {
+		"dad": {
+			"path": "/home/jupyter/data/family-reference/3-4-0192.jpg",
+			"face_bbox": [
+				913.9678955078125,
+				560.0880737304688,
+				1092.09814453125,
+				802.7476806640625
+			],
+			"class": "dad"
+		},
+		"mom": {
+			"path": "/home/jupyter/data/family-reference/3-4-0192.jpg",
+			"face_bbox": [
+				1551.3070068359375,
+				602.1809692382812,
+				1724.1507568359375,
+				830.8676147460938
+			],
+			"class": "mom"
+		},
+		"brother": {
+			"path": "/home/jupyter/data/family-reference/3-4-0192.jpg",
+			"face_bbox": [
+				1418.965087890625,
+				644.950439453125,
+				1565.698486328125,
+				830.8761596679688
+			],
+			"class": "brother"
+		}
+	},
+	"3-3-0050": {
+		"unknown_14": {
+			"path": "/home/jupyter/data/family-reference/3-3-0050.jpg",
+			"face_bbox": [
+				646.7750854492188,
+				1664.1524658203125,
+				743.540283203125,
+				1791.8349609375
+			],
+			"class": "unknown_14"
+		},
+		"mom": {
+			"path": "/home/jupyter/data/family-reference/3-3-0050.jpg",
+			"face_bbox": [
+				891.45849609375,
+				1762.4964599609375,
+				978.1740112304688,
+				1864.784912109375
+			],
+			"class": "mom"
+		},
+		"me": {
+			"path": "/home/jupyter/data/family-reference/3-3-0050.jpg",
+			"face_bbox": [
+				658.597412109375,
+				2217.2939453125,
+				736.1585693359375,
+				2303.430908203125
+			],
+			"class": "me"
+		},
+		"unknown_1": {
+			"path": "/home/jupyter/data/family-reference/3-3-0050.jpg",
+			"face_bbox": [
+				886.2127685546875,
+				1895.9754638671875,
+				956.4260864257812,
+				1977.7457275390625
+			],
+			"class": "unknown_1"
+		}
+	},
+	"3-1-0214": {
+		"me": {
+			"path": "/home/jupyter/data/family-reference/3-1-0214.jpg",
+			"face_bbox": [
+				1186.0289306640625,
+				791.8734741210938,
+				1374.4256591796875,
+				1050.0494384765625
+			],
+			"class": "me"
+		}
+	},
+	"3-2-0019": {
+		"dad": {
+			"path": "/home/jupyter/data/family-reference/3-2-0019.jpg",
+			"face_bbox": [
+				24.94872283935547,
+				715.4081420898438,
+				416.181884765625,
+				1212.6768798828125
+			],
+			"class": "dad"
+		},
+		"unknown_1": {
+			"path": "/home/jupyter/data/family-reference/3-2-0019.jpg",
+			"face_bbox": [
+				1305.143798828125,
+				713.3426513671875,
+				1657.624755859375,
+				1212.2120361328125
+			],
+			"class": "unknown_1"
+		}
+	},
+	"3-4-0139": {
+		"dad": {
+			"path": "/home/jupyter/data/family-reference/3-4-0139.jpg",
+			"face_bbox": [
+				1175.7904052734375,
+				603.5514526367188,
+				1555.2791748046875,
+				1112.9451904296875
+			],
+			"class": "dad"
+		},
+		"mom": {
+			"path": "/home/jupyter/data/family-reference/3-4-0139.jpg",
+			"face_bbox": [
+				1862.81494140625,
+				916.0607299804688,
+				2239.052978515625,
+				1397.3411865234375
+			],
+			"class": "mom"
+		},
+		"unknown_12": {
+			"path": "/home/jupyter/data/family-reference/3-4-0139.jpg",
+			"face_bbox": [
+				1455.08984375,
+				1114.8968505859375,
+				1760.578125,
+				1490.344482421875
+			],
+			"class": "unknown_12"
+		}
+	}
+}
